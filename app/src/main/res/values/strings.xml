@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cliente_Correo</string>
+    <string name="Asunto">Asunto:</string>
+    <string name="Para">Para:</string>
+    <string name="De">De:</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Contenido">Contenido</string>
+</resources>
